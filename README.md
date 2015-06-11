@@ -5,4 +5,4 @@ Applications:
 - Gene Expression in Crowded Environment.
 - Motor Protein Motion in Crowded Environment.
 
-@c Mahdi Golkaram
+Mahdi Golkaram
